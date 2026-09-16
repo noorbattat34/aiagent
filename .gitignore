@@ -1,0 +1,12 @@
+# Environment variables and secrets
+.env
+
+# Virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Python test/cache files
+.pytest_cache/
